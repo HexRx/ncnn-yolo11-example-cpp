@@ -1,0 +1,5 @@
+.vscode
+build
+*.jpg
+!horses.jpg
+*.png
